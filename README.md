@@ -10,7 +10,7 @@ HABIT TRACKER 🎯
 - Member 3: Saranya J - RIT Kottayam
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+(https://github.com/user-attachments/assets/42ee3bbf-f280-4c48-81a9-16feadb8bfc0)
 
 ### Project Description
 A project description outlines the goals, objectives, and scope of a project. It details the problem being solved, the approach to be used, and the expected outcomes. This helps align stakeholders and resources for successful project execution.
