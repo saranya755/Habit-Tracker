@@ -27,15 +27,13 @@ For Software:
 - PYTHON
 
 ### Implementation
-For Software:
+For Software:"Develop a user-friendly habit tracking software that allows users to set, track, and visualize their progress on personal goals, fostering consistency and growth."
 # Installation
 VSCode
 
-# Run
-[commands]
-
 ### Project Documentation
 For Software:
+The Habit Tracker software enables users to set, monitor, and track their personal habits, offering customizable goals, daily reminders, and progress visualization. It features secure user authentication, data storage, and progress insights, fostering consistency and motivation. Built with a modern tech stack, the software allows users to track streaks, view statistics, and celebrate milestones, helping them build positive habits for long-term success.
 
 # Screenshots 
 screenshot 1
